@@ -1,0 +1,120 @@
+<?php
+
+// Translate powered by PHPFusion-Development.at
+
+// Admin Links
+$locale['200'] = "[SITENAME] Backend";
+$locale['ac00'] = "Dashboard";
+$locale['ac01'] = "Inhalt";
+$locale['ac02'] = "Benutzer";
+$locale['ac03'] = "System";
+$locale['ac04'] = "Einstellungen";
+$locale['ac05'] = "Addons";
+$locale['ac10'] = "Dashboard";
+$locale['202'] = "Benutzerprofil Konfiguration";
+
+// Pre-defined sections
+$locale['AC'] = "Artikel Kategorien";
+$locale['A'] = "Artikel";
+$locale['BLOG'] = "Blog";
+$locale['BLC'] = "Blog Kategorien";
+$locale['CP'] = "Eigene Seiten";
+$locale['DC'] = "Download Kategorien";
+$locale['D'] = "Downloads";
+$locale['FQ'] = "FAQs";
+$locale['F'] = "Foren";
+$locale['IM'] = "Bilder";
+$locale['I'] = "Addons";
+$locale['IP'] = "Addons Verwaltungen";
+$locale['M'] = "Mitglieder";
+$locale['MI'] = "Migration Tool";
+$locale['N'] = "News";
+$locale['P'] = "Panels";
+$locale['PH'] = "Galerie";
+$locale['B'] = "Blackliste";
+$locale['C'] = "Kommentare";
+$locale['DB'] = "Datenbank Sicherung";
+$locale['PI'] = "System Informationen";
+$locale['PO'] = "Umfragen";
+$locale['SL'] = "Seitenlinks";
+$locale['SU'] = "Einsendungen";
+$locale['U'] = "Update";
+$locale['UG'] = "Benutzergruppen";
+$locale['UP'] = "Benutzerprofile";
+$locale['WC'] = "Weblink Kategorien";
+$locale['W'] = "Weblinks";
+$locale['S1'] = "Allgemeines";
+$locale['S2'] = "Datum und Uhrzeit";
+$locale['S3'] = "Seitendesign";
+$locale['S4'] = "Registrierung";
+$locale['S6'] = "Sonstiges";
+$locale['S7'] = "Private Nachrichten";
+$locale['NC'] = "News Kategorien";
+$locale['BB'] = "BB-Codes";
+$locale['SM'] = "Smilies";
+$locale['UF'] = "Benutzerfelder";
+$locale['FR'] = "Foren Ränge";
+$locale['S8'] = "News";
+$locale['S9'] = "Benutzer Verwaltung";
+$locale['S11'] = "Downloads";
+$locale['S10'] = "Einträge pro Seite";
+$locale['SB'] = "Seitenbanner";
+$locale['S12'] = "Sicherheit";
+$locale['APWR'] = "Administrator Passwörter";
+$locale['ERRO'] = "Fehlerlog";
+$locale['AD'] = "Administratoren";
+$locale['UL'] = "Benutzerlog";
+$locale['MAIL'] = "E-Mail Templates";
+$locale['PL'] = "Permalinks";
+$locale['ROB'] = "robots.txt";
+$locale['TS'] = "Seitendesign Manager";
+$locale['S13'] = "Blog Einstellungen";
+$locale['LANG'] = "Sprach Einstellungen";
+
+// Site Information
+$locale['250'] = "Dashboard";
+$locale['251'] = "Registrierte Mitglieder";
+$locale['252'] = "Unaktivierte Mitglieder";
+$locale['253'] = "Sicherheits gebannte Mitglieder";
+$locale['254'] = "Einsendungen";
+$locale['254a'] = "Es sind derzeit keine Einsendungen vorhanden.";
+$locale['254b'] = "Es sind derzeit keine Bewertungen vorhanden.";
+$locale['254c'] = "Es sind derzeit keine Kommentare vorhanden.";
+$locale['255'] = "Mehr anzeigen";
+$locale['256'] = "Forenthemen";
+$locale['257'] = "Kommentare";
+$locale['258'] = "Übersicht";
+$locale['259'] = "Forenbeiträge";
+$locale['260'] = "Benutzer";
+$locale['261'] = "Fotos";
+$locale['262'] = "Aktivierte Mitglieder";
+$locale['263'] = "Abgebrochene Mitglieder";
+$locale['264'] = "Inaktive Mitglieder";
+$locale['265'] = "Foren";
+$locale['266'] = "Benutzerlog";
+$locale['267'] = "robots.txt";
+$locale['268'] = "Downloads";
+$locale['269'] = "News";
+$locale['269b'] = "Blog";
+$locale['270'] = "Artikel";
+$locale['271'] = "Weblinks";
+$locale['272'] = "Galerien";
+$locale['272a'] = "Eigene Seiten";
+$locale['273'] = "kommentierte";
+$locale['273a'] = "bewertete";
+$locale['273b'] = "erstellte Einsendungen";
+$locale['274'] = "Kommentare verwalten";
+$locale['275'] = "Kommentare bearbeiten";
+$locale['276'] = "Kommentare entfernen";
+$locale['277'] = "Neueste Kommentare";
+$locale['278'] = "Neueste Bewertungen";
+$locale['279'] = "Neueste Einsendungen";
+$locale['280'] = "Administrations Kontrollpanel";
+$locale['281'] = "Bitte gib dein Backend Passwort an.";
+$locale['282'] = "Sprache wechseln";
+$locale['283'] = "Addons";
+$locale['284'] = "Es wurden bisher keine Addons installiert.";
+$locale['285'] = "Addons verwalten";
+$locale['286'] = "Einsendung ansehen";
+
+?>
