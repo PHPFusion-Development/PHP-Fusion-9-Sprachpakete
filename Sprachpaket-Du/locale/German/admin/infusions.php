@@ -26,5 +26,7 @@ $locale['419'] = "Optionen";
 $locale['420'] = "Version";
 $locale['421'] = "Autor";
 $locale['422'] = "Weitere Addons herunterladen";
+$locale['423'] = "%s Addon wurde installiert.";
+$locale['424'] = "%s Addon wurde deinstalliert.";
 
 ?>
