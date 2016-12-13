@@ -27,6 +27,15 @@ $locale['SL_0027'] = "Nur in der Header Navigation";
 $locale['SL_0028'] = "Den Link in einem neuen Fenster öffnen";
 $locale['SL_0029'] = "Kategorie";
 $locale['SL_0030'] = "Link Icon";
+$locale['SL_0031'] = "Status";
+$locale['SL_0032'] = "Keine Hauptkategorie";
+$locale['SL_0033'] = "Sprache";
+$locale['SL_0034'] = "Geschützt";
+$locale['SL_0035'] = "Unterlinks";
+$locale['SL_0036'] = "Verschiebe Unterlinks nach ..";
+$locale['SL_0037'] = "Bitte wähle eine Hauptkategorie";
+$locale['SL_0038'] = "Es sind derzeit keine Links verfügbar, welche als Hauptkategorie eingesetzt werden können.";
+$locale['SL_0039'] = "Verschieben";
 $locale['SL_0040'] = "Link speichern";
 $locale['SL_0041'] = "Einstellungen";
 $locale['SL_0042'] = "Konfiguration der Seitenlinks Navigation.";
@@ -49,8 +58,9 @@ $locale['SL_0062'] = "Es wurden noch keine Seitenlinks erstellt.";
 $locale['SL_0070'] = "Icon";
 $locale['SL_0071'] = "Neues Fenster?";
 $locale['SL_0072'] = "Menü";
-$locale['SL_0073'] = "";
+$locale['SL_0073'] = "Sortierung erneuern";
 $locale['SL_0074'] = "Verschieben";
+$locale['SL_0075'] = "Optionen anzeigen";
 
 // Delete Site Link category
 $locale['SL_0080'] = "Bist du dir sicher, dass du den Seitenlink entfernen möchtest?";
@@ -58,5 +68,6 @@ $locale['SL_0080'] = "Bist du dir sicher, dass du den Seitenlink entfernen möch
 // Error
 $locale['SL_0085'] = "Du musst einen Namen für den Link angeben.";
 $locale['SL_0086'] = "Du musst eine Adresse für den Link angeben.";
+$locale['SL_0087'] = "Es wurde kein Eintrag zum aktualisieren gefunden. Bitte wähle mindestens einen Link aus.";
 
 ?>
