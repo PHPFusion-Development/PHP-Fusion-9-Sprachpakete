@@ -15,7 +15,7 @@ $locale['408'] = "Kontakt";
 $locale['409'] = "E-Mail";
 $locale['410'] = "Webseite";
 $locale['411'] = "Deinstallieren";
-$locale['412'] = "Bist du dir sicher, dass du das Addon deinstallieren möchtest?";
+$locale['412'] = "Bist du dir sicher, dass du dieses Addon deinstallieren möchtest?";
 $locale['413'] = "Key:";
 $locale['414'] = "Nicht Installiert";
 $locale['415'] = "Installiert";
@@ -26,7 +26,5 @@ $locale['419'] = "Optionen";
 $locale['420'] = "Version";
 $locale['421'] = "Autor";
 $locale['422'] = "Weitere Addons herunterladen";
-$locale['423'] = "%s Addon wurde installiert.";
-$locale['424'] = "%s Addon wurde deinstalliert.";
-
-?>
+$locale['423'] = "\"%s\" Addon wurde installiert.";
+$locale['424'] = "\"%s\" Addon wurde deinstalliert.";
