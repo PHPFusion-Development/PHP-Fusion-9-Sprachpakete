@@ -20,17 +20,18 @@ $locale['page_0113'] = "Alle Sprachen";
 $locale['page_0114'] = "Sprache wählen";
 $locale['page_0115'] = "Alle Ersteller";
 $locale['page_0116'] = "Ersteller wählen";
-$locale['page_0117'] = "Du musst einen Seitentitel angeben."; // 451
+$locale['page_0117'] = "Du musst einen Seitentitel angeben.";
+$locale['page_0118'] = "Aktionen";
 
 // Custom Pages titles
-$locale['page_0200'] = "Neue Seite erstellen"; //ex 400
-$locale['page_0201'] = "Seite bearbeiten"; // ex 401
+$locale['page_0200'] = "Neue Seite erstellen";
+$locale['page_0201'] = "Seite bearbeiten";
 $locale['page_0202'] = "Seiten Einstellungen";
 $locale['page_0203'] = "Seiteneditor";
 $locale['page_0204'] = "Seiteninhalt";
-$locale['page_0205'] = "Alle Seiten"; // 402
-$locale['page_0300'] = "Seitentitel"; // 422
-$locale['page_0301'] = "Meta Keywords (Drücke nach jedem Keyword die Taste Enter)"; // 432
+$locale['page_0205'] = "Alle Seiten";
+$locale['page_0300'] = "Seitentitel";
+$locale['page_0301'] = "Meta Keywords (Drücke nach jedem Keyword die Taste Enter)";
 $locale['page_0302'] = "Sprache";
 $locale['page_0303'] = "Die Sprache, in welcher die Seite verfasst wurde.";
 $locale['page_0304'] = "Weitere Optionen";
@@ -51,7 +52,7 @@ $locale['page_0316'] = "Position";
 $locale['page_0317'] = "Reihenfolge";
 $locale['page_0318'] = "Icon";
 $locale['page_0319'] = "Kategorie";
-$locale['page_0320'] = "Seite speichern"; // 430
+$locale['page_0320'] = "Seite speichern";
 $locale['page_0321'] = "Link speichern";
 
 // Panels
@@ -83,8 +84,8 @@ $locale['page_0385'] = "Spaltenposition";
 $locale['page_0390'] = "Widgets";
 $locale['page_0391'] = "Widget wählen";
 $locale['page_0400'] = "Die Seite wurde erfolgreich entfernt.";
-$locale['page_0401'] = "Die Seite wurde erfolgreich erstellt."; // 410
-$locale['page_0402'] = "Die Seite wurde erfolgreich aktualisiert."; // 411
+$locale['page_0401'] = "Die Seite wurde erfolgreich erstellt.";
+$locale['page_0402'] = "Die Seite wurde erfolgreich aktualisiert.";
 $locale['page_0403'] = "Die Zeile wurde erfolgreich entfernt.";
 $locale['page_0404'] = "Die Zeile ist fehlerhaft.";
 $locale['page_0405'] = "Die Zeile kann nicht dupliziert werden.";
@@ -97,7 +98,6 @@ $locale['page_0411'] = "Die Spalte wurde erfolgreich dupliziert.";
 $locale['page_0412'] = "Die Spalte ist fehlerhaft.";
 
 // Other
-$locale['page_0413'] = "Bist du dir sicher, dass du die Seite entfernen möchtest?"; // 450
+$locale['page_0413'] = "Bist du dir sicher, dass du diese Seite entfernen möchtest?";
 $locale['page_0440'] = "Es wurden bisher noch keine eigenen Seiten angelegt.";
-
-?>
+$locale['page_0441'] = "Inhalt";
