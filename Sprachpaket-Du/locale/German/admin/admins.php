@@ -43,8 +43,8 @@ $locale['449'] = "Einstellungen";
 $locale['450'] = "Sicherheitsrelevante demarkieren";
 
 // Popup Error/Warning Messages
-$locale['460'] = "Bist du dir sicher, dass du den Administrator entfernen möchtest?";
-$locale['461'] = "Bist du dir sicher, dass du den Administrator hinzufügen möchtest?";
+$locale['460'] = "Bist du dir sicher, dass du diesen Administrator entfernen möchtest?";
+$locale['461'] = "Bist du dir sicher, dass du diesen Administrator hinzufügen möchtest?";
 $locale['462'] = "Wenn du die markierten Rechte an einen Administrator vergibst, kann dies zu Sicherheitsproblemen führen.";
 
 // Remove Admin confirmation
@@ -52,5 +52,3 @@ $locale['470'] = "Administrator entfernen";
 $locale['471'] = "Um den Administrator zu entfernen, gib bitte dein Backend Passwort an:";
 $locale['472'] = "Weiter";
 $locale['473'] = "Abbrechen";
-
-?>
