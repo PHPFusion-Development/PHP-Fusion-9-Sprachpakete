@@ -18,5 +18,3 @@ $locale['420'] = "robots.txt";
 $locale['421'] = "Weitere Informationen und Hilfe findest du hier.";
 $locale['422'] = "Speichern";
 $locale['423'] = "Standard wiederherstellen";
-
-?>
