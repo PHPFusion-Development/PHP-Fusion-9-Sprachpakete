@@ -45,7 +45,7 @@ $locale['SL_0045'] = "Anzahl der Seitenlinks";
 $locale['SL_0046'] = "Link Gruppierung";
 $locale['SL_0047'] = "Gruppiert Links, wenn diese die maximale Anzahl der Links pro Seite übersteigen.";
 $locale['SL_0048'] = "Nein, die Links sollen nicht automatisch gruppiert werden.";
-$locale['SL_0049'] = "Ja, die Links sollen automatisch gruppiert werden, beispielsweiße als &quot;Mehr&quot;.";
+$locale['SL_0049'] = "Ja, die Links sollen automatisch gruppiert werden, beispielsweiße als \"Mehr\".";
 
 // Site Links list
 $locale['SL_0050'] = "Name des Links";
@@ -69,5 +69,3 @@ $locale['SL_0080'] = "Bist du dir sicher, dass du den Seitenlink entfernen möch
 $locale['SL_0085'] = "Du musst einen Namen für den Link angeben.";
 $locale['SL_0086'] = "Du musst eine Adresse für den Link angeben.";
 $locale['SL_0087'] = "Es wurde kein Eintrag zum aktualisieren gefunden. Bitte wähle mindestens einen Link aus.";
-
-?>
