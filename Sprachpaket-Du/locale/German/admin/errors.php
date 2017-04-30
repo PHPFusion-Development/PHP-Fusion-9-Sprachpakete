@@ -37,5 +37,3 @@ $locale['ERROR_462'] = "Optionen";
 $locale['ERROR_463'] = "herbeigeführt von";
 $locale['ERROR_464'] = "Fehlerkonsole";
 $locale['ERROR_465'] = "Quelldatei";
-
-?>
