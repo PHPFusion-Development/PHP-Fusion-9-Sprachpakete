@@ -3,7 +3,7 @@
 // Translate powered by PHPFusion-Development.at
 
 // Main
-$locale['apw_title'] = "Administratoren Passwörter aktualisieren";
+$locale['apw_title'] = "Backend Passwörter aktualisieren";
 $locale['apw_desc'] = "Aktualisiert die Frontend und Backend Passwörter von Administratoren.";
 $locale['apw_admin1'] = "Administratoren aktualisieren";
 
@@ -34,8 +34,8 @@ $locale['apw_409'] .= "Mit freundlichen Grüßen [ADMIN]";
 
 // Log
 $locale['apw_410'] = "Ergebnis";
-$locale['apw_411'] = "Die Administratoren Passwörter wurden erfolgreich aktualisiert.";
-$locale['apw_412'] = "Administrator Passwort";
+$locale['apw_411'] = "Die Backend Passwörter wurden erfolgreich aktualisiert.";
+$locale['apw_412'] = "Backend Passwort";
 $locale['apw_415'] = "Log";
 $locale['apw_416'] = "Log ID";
 $locale['apw_417'] = "Datum";
@@ -51,5 +51,3 @@ $locale['apw_426'] = "Es wurde kein Passwort aktualisiert.";
 $locale['apw_427'] = "Optionen";
 $locale['apw_428'] = "Bist du dir sicher, dass du diesen Log Eintrag entfernen möchtest?";
 $locale['apw_429'] = "Der Log Eintrag wurde erfolgreich entfernt.";
-
-?>
