@@ -29,5 +29,3 @@ $locale['417'] = "Ausgabe des BB-Codes Test";
 $locale['418'] = "Smilies in diesem Test deaktivieren.";
 $locale['418a'] = "Test Nachricht";
 $locale['418b'] = "Du musst eine Test Nachricht angeben, um die BB-Codes zu testen.";
-
-?>
