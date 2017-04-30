@@ -14,14 +14,14 @@ $locale['ac10'] = "Dashboard";
 $locale['202'] = "Benutzerprofil Konfiguration";
 
 // Pre-defined sections
-$locale['AC'] = "Artikel Kategorien";
+$locale['AC'] = "Artikelkategorien";
 $locale['A'] = "Artikel";
 $locale['BLOG'] = "Blog";
-$locale['BLC'] = "Blog Kategorien";
+$locale['BLC'] = "Blogkategorien";
 $locale['CP'] = "Eigene Seiten";
-$locale['DC'] = "Download Kategorien";
+$locale['DC'] = "Downloadkategorien";
 $locale['D'] = "Downloads";
-$locale['FQ'] = "FAQs";
+$locale['FQ'] = "Häufige Fragen";
 $locale['F'] = "Foren";
 $locale['IM'] = "Bilder";
 $locale['I'] = "Addons";
@@ -41,15 +41,15 @@ $locale['SU'] = "Einsendungen";
 $locale['U'] = "Update";
 $locale['UG'] = "Benutzergruppen";
 $locale['UP'] = "Benutzerprofile";
-$locale['WC'] = "Weblink Kategorien";
+$locale['WC'] = "Weblinkkategorien";
 $locale['W'] = "Weblinks";
 $locale['S1'] = "Allgemeines";
 $locale['S2'] = "Datum und Uhrzeit";
-$locale['S3'] = "Seitendesign";
+$locale['S3'] = "Design";
 $locale['S4'] = "Registrierung";
 $locale['S6'] = "Sonstiges";
 $locale['S7'] = "Private Nachrichten";
-$locale['NC'] = "News Kategorien";
+$locale['NC'] = "Newskategorien";
 $locale['BB'] = "BB-Codes";
 $locale['SM'] = "Smilies";
 $locale['UF'] = "Benutzerfelder";
@@ -60,7 +60,7 @@ $locale['S11'] = "Downloads";
 $locale['S10'] = "Einträge pro Seite";
 $locale['SB'] = "Seitenbanner";
 $locale['S12'] = "Sicherheit";
-$locale['APWR'] = "Administrator Passwörter";
+$locale['APWR'] = "Backend Passwörter";
 $locale['ERRO'] = "Fehlerlog";
 $locale['AD'] = "Administratoren";
 $locale['UL'] = "Benutzerlog";
@@ -69,7 +69,7 @@ $locale['PL'] = "Permalinks";
 $locale['ROB'] = "robots.txt";
 $locale['TS'] = "Seitendesign Manager";
 $locale['S13'] = "Blog Einstellungen";
-$locale['LANG'] = "Sprach Einstellungen";
+$locale['LANG'] = "Sprache";
 
 // Site Information
 $locale['250'] = "Dashboard";
@@ -116,5 +116,3 @@ $locale['283'] = "Addons";
 $locale['284'] = "Es wurden bisher keine Addons installiert.";
 $locale['285'] = "Addons verwalten";
 $locale['286'] = "Einsendung ansehen";
-
-?>
