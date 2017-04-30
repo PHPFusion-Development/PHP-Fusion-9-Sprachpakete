@@ -42,5 +42,3 @@ $locale['SMLY_438'] = "Du musst ein Smilie Bild auswählen.";
 $locale['SMLY_439'] = "Du musst einen Smilie Namen angeben.";
 $locale['SMLY_440'] = "Es sind derzeit keine aktivieren Smilies vorhanden.";
 $locale['SMLY_441'] = "Es sind derzeit keine deaktivierten Smilies vorhanden.";
-
-?>
