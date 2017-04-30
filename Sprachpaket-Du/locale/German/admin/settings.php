@@ -1,5 +1,6 @@
 <?php
-//
+
+// Translate powered by PHPFusion-Development.at
 
 // Main 
 $locale['400'] = "Einstellungen";
@@ -31,12 +32,13 @@ $locale['416'] = "Zweispaltig";
 $locale['417'] = "Seitensprache";
 $locale['418'] = "Seitendesign des Frontends";
 $locale['418a'] = "Seitendesign des Backends";
-$locale['419'] = "Standard Suchregion";
-$locale['420'] = "Linke Panels ausblenen auf";
-$locale['421'] = "Mittlere obere Panels ausblenden auf";
-$locale['422'] = "Mittlere untere Panels ausblenden auf";
-$locale['423'] = "Rechte Panels ausblenden auf";
-$locale['424'] = "Bitte pro Zeile nur eine Seite angeben, diese vom Root aus. Zum Beispiel: <br />/news.php<br />/forum/index.php";
+$locale['419'] = "Standard Suchbereich";
+$locale['419a'] = "Komplette Seite";
+$locale['420'] = "Linke Panels";
+$locale['421'] = "Mittlere obere Panels";
+$locale['422'] = "Mittlere untere Panels";
+$locale['423'] = "Rechte Panels";
+$locale['424'] = "Um Panels auf einer Seite auszublenden, nutze bitte die nachstehenden Formularfelder. Pro Zeile darf nur eine Seite vom Root ausgehend angegeben werden, dass wäre zum Beispiel: <br />/news.php<br />/forum/index.php";
 $locale['425'] = "Adresse der Webseite";
 $locale['426'] = "Protokoll der Webseite";
 $locale['427'] = "Host der Webseite";
@@ -57,6 +59,10 @@ $locale['439'] = "Normalize Friendly URLs:";
 $locale['440'] = "SEO Debug Mode";
 $locale['441'] = "Entypo";
 $locale['442'] = "Font-Awesome";
+$locale['443a'] = "Benutzer-Panel 1";
+$locale['443b'] = "Benutzer-Panel 2";
+$locale['443c'] = "Benutzer-Panel 3";
+$locale['443d'] = "Benutzer-Panel 4";
 
 // Time & Date Settings
 $locale['450'] = "Datum und Uhrzeit";
@@ -75,6 +81,7 @@ $locale['462'] = "Zeitzone des Servers";
 $locale['463'] = "Setzte diesen Wert so, dass die Serverzeit GMT 0 ist.";
 $locale['464'] = "Standard Zeitzone";
 $locale['465'] = "Erster Tag der Woche";
+$locale['466'] = "Neue Benutzer";
 
 // Registration Settings
 $locale['550'] = "Registrierung";
@@ -94,7 +101,6 @@ $locale['605'] = "Maximale Dateigröße (Bytes)";
 $locale['606'] = "Thumb-Komprimierungsmethode";
 $locale['607'] = "GD1";
 $locale['608'] = "GD2";
-
 $locale['650'] = "Sonstiges";
 $locale['651'] = "Wörter, welche ersetzt werden sollen";
 $locale['652'] = "Bitte pro Zeile nur ein Wort angeben.";
@@ -104,7 +110,6 @@ $locale['655'] = "Gästen das Posten erlauben?";
 $locale['656'] = "Avatare in Kommentaren anzeigen?";
 $locale['656a'] = "jQuery Kommentare aktivieren?";
 $locale['656b'] = "Solltest du die jQuery Kommentare aktivieren, setzte bitte die Anzahl der Kommentare pro Seite sehr hoch, um eine bestmögliche Ansicht zu erhalten.";
-
 $locale['657'] = "Wartungsmodus";
 $locale['658'] = "Nachricht bei Wartungsmodus";
 $locale['659'] = "Zenzur aktivieren?";
@@ -164,11 +169,9 @@ $locale['691'] = "Dürfen Benutzer den Benutzernamen wechseln?";
 $locale['692'] = "Captcha Einstellungen";
 $locale['693'] = "Captcha";
 $locale['694'] = "PHP Ausführung erlauben?";
-$locale['695'] = "<strong>Achtung!</strong> Wenn du die Ausführung von PHP erlaubst, ist dein System durch SQL Exploits nicht mehr sicher.";
+$locale['695'] = "<strong>Achtung!</strong> Wenn die Ausführung von PHP erlaubt ist, ist das System für SQL Exploits nicht mehr sicher.";
 $locale['696'] = "Bitte gib deinen öffentlichen und privaten reCAPTCHA Schlüssel an!";
-
 $locale['913'] = "Kommentare pro Seite";
-
 $locale['955'] = "Original";
 $locale['956'] = "Quadratisch";
 
@@ -233,6 +236,9 @@ $locale['1013'] = "Benutzer entfernen";
 $locale['1014'] = "Benutzern erlauben, sich von mehreren Geräten gleichzeitig anzumelden?";
 $locale['1014a'] = "Für mehr Sicherheit empfiehlt es sich, diesen Dienst zu deaktivieren.";
 
+// Filesizes
+$locale['1020'] = array(1 => 'Bytes (Bytes)', 1000 => 'KB (Kilobytes)', 1000000 => 'MB (Megabytes)');
+
 // Social integration
 $locale['1030'] = "Erstelle OpenGraph Meta Tags für soziale Netzwerke?";
 $locale['1031'] = "Erlaube Index URLs in BB-Codes?";
@@ -261,40 +267,46 @@ $locale['dateformats'][] = "%d %B %Y %H:%M";
 $locale['dateformats'][] = "%B %d %Y %H:%M:%S";
 $locale['dateformats'][] = "%d. %B %Y %H:%M:%S";
 $locale['dateformats'][] = "%d %B %Y %H:%M:%S";
-$locale['error_rate'] = "Please enter a Rate.";
-$locale['error_type'] = "Please enter Extension Type.";
-$locale['error_width'] = "Please enter Width.";
-$locale['error_height'] = "Please enter Height.";
-$locale['error_value'] = "Please enter a value.";
-$locale['blog_description'] = "The configuration settings for Blog system";
-$locale['news_description'] = "The configuration settings for News system";
-$locale['ipp_description'] = "The configuration settings for default numbers of results items to be listed";
-$locale['forum_description'] = "The configuration settings for Forum system";
-$locale['download_description'] = "The configuration settings for Download system";
-$locale['language_description'] = "The configuration settings for default multi-language system";
-$locale['photo_description'] = "The configuration settings for default Photo Gallery system";
-$locale['main_description'] = "The configuration settings for the main system";
-$locale['misc_description'] = "The configuration settings for Email, Authentication method, Comments, Ratings, Avatars, Social Graphs and other Administraiton options";
-$locale['message_description'] = "The configuration settings for Private Messaging system";
-$locale['register_description'] = "The configuration settings for User Registration system";
-$locale['security_description'] = "The configuration settings for Security system";
-$locale['time_description'] = "The configuration settings for server Time and Date system";
-$locale['user_description'] = "The configuration settings for Users Management system";
-$locale['theme_description'] = "The configuration settings for Themes";
-$locale['blog_settings'] = "Blog Settings";
-$locale['download_settings'] = "Download Settings";
-$locale['forum_settings'] = "Forum Settings";
-$locale['ipp_settings'] = "Items Per Page Settings";
-$locale['photo_settings'] = "Gallery Settings";
-$locale['main_settings'] = "Main Settings";
-$locale['misc_settings'] = "Miscellaneous Settings";
-$locale['news_settings'] = "News Settings";
-$locale['message_settings'] = "Private Messages Settings";
-$locale['register_settings'] = "Registration Settings";
-$locale['security_settings'] = "Security Settings";
-$locale['time_settings'] = "Time Date Settings";
-$locale['user_settings'] = "User Management Settings";
-$locale['theme_settings'] = "Theme Settings";
 
-$locale['securimage2'] = "Secure Image v.2";
+// Errors
+$locale['error_rate'] = "Du musst einen Preis angeben.";
+$locale['error_type'] = "Bitte wähle einen Dateityp aus.";
+$locale['error_width'] = "Du musst eine Breite angeben.";
+$locale['error_height'] = "Du musst eine Höhe angeben.";
+$locale['error_value'] = "Du musst dieses Feld ausfüllen..";
+
+// Descriptions
+$locale['blog_description'] = "Allgemeine Einstellungen für das Blog-System.";
+$locale['news_description'] = "Allgemeine Einstellungen für das News-System.";
+$locale['ipp_description'] = "Allgemeine Einstellungen für die Anzeige der Einträge pro Seite.";
+$locale['forum_description'] = "Allgemeine Einstellungen für die Foren.";
+$locale['download_description'] = "Allgemeine Einstellungen für das Download-System.";
+$locale['language_description'] = "Allgemeine Einstellungen für mehrsprachige Inhalte der Webseite.";
+$locale['photo_description'] = "Allgemeine Einstellungen für das Galerie-System.";
+$locale['main_description'] = "Allgemeine Einstellungen für die Webseite.";
+$locale['misc_description'] = "Allgemeine Einstellungen für das E-Mail System, die Kommentare, die Bewertungen, die Avatare, die Sozialen Medien Funktionen und weiteres.";
+$locale['message_description'] = "Allgemeine Einstellungen für die privaten Nachrichten.";
+$locale['register_description'] = "Allgemeine Einstellungen für die Registrierung.";
+$locale['security_description'] = "Allgemeine Einstellungen für die Systemsicherheit.";
+$locale['time_description'] = "Allgemeine Einstellungen für das Datum sowie die Uhrzeit.";
+$locale['user_description'] = "Allgemeine Einstellungen für die Benutzer-Verwaltung.";
+$locale['theme_description'] = "Allgemeine Einstellungen für das Design der Seite.";
+
+// Titles
+$locale['blog_settings'] = "Einstellungen des Blog-Systems";
+$locale['download_settings'] = "Einstellungen des Download-Systems";
+$locale['forum_settings'] = "Einstellungen der Foren";
+$locale['ipp_settings'] = "Einstellungen für Einträge pro Seite";
+$locale['photo_settings'] = "Einstellungen des Galerie-Systems";
+$locale['main_settings'] = "Allgemeine Einstellungen";
+$locale['misc_settings'] = "Sonstige Einstellungen";
+$locale['news_settings'] = "Einstellungen des News-Systems";
+$locale['message_settings'] = "Einstellungen der privaten Nachrichten";
+$locale['register_settings'] = "Einstellungen der Registrierung";
+$locale['security_settings'] = "Sicherheitseinstellungen";
+$locale['time_settings'] = "Einstellungen von Datum und Uhrzeit";
+$locale['user_settings'] = "Einstellungen der Benutzer-Verwaltung";
+$locale['theme_settings'] = "Design Einstellungen";
+
+// Secure Image
 $locale['securimage3'] = "Secure Image v.3";
