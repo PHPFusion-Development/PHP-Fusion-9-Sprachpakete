@@ -38,5 +38,3 @@ $locale['442'] = "Nicht schreibbar";
 // PHPinfo
 $locale['450'] = "Details";
 $locale['451'] = "Die Daten konnten nicht geladen werden. Bitte prüfe, ob die Funktion phpinfo() deaktiviert ist.";
-
-?>
